@@ -40,6 +40,17 @@ Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdoug
 | [Garlic & Coriander Yoghurt Flatbreads](recipes/breads/garlic-coriander-yoghurt-flatbreads.md) | 160 | 6g | 6 | curry pairing |
 | [Sourdough Discard Yoghurt Flatbreads](recipes/breads/sourdough-discard-yoghurt-flatbreads.md) | 160 | 6g | 6 | uses starter discard |
 
+## Salads
+
+| Recipe | kcal/serve | Protein | Serves | Notes |
+|---|---|---|---|---|
+| [Kachumber](recipes/salads/kachumber.md) | 40 | 1g | 4 | dal pairing, no-cook |
+| [Korean Cucumber Salad (Oi Muchim)](recipes/salads/korean-cucumber-salad.md) | 60 | 2g | 2 | parcels pairing, no-cook |
+| [Fattoush (Leftover Collision)](recipes/salads/fattoush-leftovers.md) | 250 | 7g | 2 | leftovers only — never cook for it |
+| [Crispy Chickpea Chopped Salad](recipes/salads/crispy-chickpea-chopped-salad.md) | 275 side / 550 meal | 21g (meal) | 1–2 | one pan, from scratch |
+| [Peri-Peri Chicken Salad](recipes/salads/peri-peri-chicken-salad.md) | 380 | 45g | 1 | uses rotisserie leftovers |
+| [Tuna & Butter Bean Bowl](recipes/salads/tuna-butter-bean-bowl.md) | 420 | 38g | 1 | pantry meal, no-cook |
+
 ## Breakfast
 
 | Recipe | kcal/serve | Protein | Serves |
