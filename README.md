@@ -42,6 +42,7 @@ Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdoug
 | [Crispy Spiced Chickpeas](recipes/sides/crispy-spiced-chickpeas.md) | 180 | 8g | 2 |
 | [Crispy Herbed Rosti](recipes/sides/crispy-herbed-rosti.md) | 210 | 4g | 4 |
 | [Miso Soup](recipes/sides/miso-soup.md) | 50 | 4g | 2 |
+| [Creamy Parmesan Polenta](recipes/sides/creamy-parmesan-polenta.md) | 230 | 6g | 4 |
 
 ## Breads
 
