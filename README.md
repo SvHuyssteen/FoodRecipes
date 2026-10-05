@@ -67,6 +67,12 @@ Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdoug
 | [Gochujang Salted Caramel Froyo (Creami)](recipes/desserts/gochujang-salted-caramel-froyo.md) | 255 | 12g | 2 |
 | [Greek Yoghurt Peanut Butter Froyo (Creami)](recipes/desserts/greek-yoghurt-peanut-butter-froyo.md) | 295 | 20g | 2 |
 
+## Staples
+
+| Recipe | kcal | Protein | Makes | Notes |
+|---|---|---|---|---|
+| [Napa Kimchi (Premade Paste)](recipes/staples/napa-kimchi.md) | 17/100g | 1g/100g | ~1L jar | ferment; feeds kimchijeon + parcels |
+
 ## Sauces
 
 | Recipe | kcal | Protein | Serves |
