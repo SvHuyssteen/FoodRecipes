@@ -13,6 +13,7 @@ Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdoug
 | Recipe | kcal/serve | Protein | Serves | Notes |
 |---|---|---|---|---|
 | [Peri-Peri Pork Loin with Charred Miso Cabbage & Sesame Cauliflower Rice](recipes/mains/peri-peri-pork-loin.md) | 470 | 46g | 4 | low-cal favourite |
+| [Low-Cal Kimchi Pancake (Kimchijeon)](recipes/mains/kimchi-pancake.md) | 400 (2 pancakes) | 8g | 1 | light meal, one pan |
 | [Middle Eastern Spiced Air Fryer Pork Chops](recipes/mains/middle-eastern-air-fryer-pork-chops.md) | 380 | 42g | 2 | quick |
 | [Dal Tadka](recipes/mains/dal-tadka.md) | 380 | 18g | 4 | vegetarian |
 | [Rotisserie Herb & Garlic Chicken with Fat-Basted Potatoes](recipes/mains/rotisserie-herb-garlic-chicken.md) | 520 | 48g | 4 | |
