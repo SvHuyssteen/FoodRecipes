@@ -91,6 +91,10 @@ Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdoug
 | [All-Purpose Miso Glaze](recipes/sauces/miso-glaze.md) | 150 (batch) | 3g | 2–4 portions |
 | [Tzatziki](recipes/sauces/tzatziki.md) | 60 | 4g | 4 |
 
+## Guides
+
+- [Fish Buying Guide — Cape Town](docs/fish-buying-guide.md) — where to buy hake, snoek and kingklip, at what price, and the glaze/sustainability gotchas (Oct 2026 snapshot).
+
 ## Conventions
 
 - One markdown file per recipe under `recipes/<category>/`, kebab-case filename.
