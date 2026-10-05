@@ -1,2 +1,70 @@
-# FoodRecipes
-A repo where I use AI to try and come up or catalogue recipes for me to use
+﻿# FoodRecipes
+
+A repo where I use AI to try and come up or catalogue recipes for me to use.
+
+Personal recipe collection â€” healthy and hearty with treats mixed in. Calories and protein are
+per-serve estimates. Migrated from Google Drive, October 2026.
+
+**Kit:** Kenwood stand mixer (blender / grinder / juicer / food processor attachments), Ninja
+Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdough starter.
+
+## Mains
+
+| Recipe | kcal/serve | Protein | Serves | Notes |
+|---|---|---|---|---|
+| [Peri-Peri Pork Loin with Charred Miso Cabbage & Sesame Cauliflower Rice](recipes/mains/peri-peri-pork-loin.md) | 470 | 46g | 4 | âš ï¸ pending import |
+| [Middle Eastern Spiced Air Fryer Pork Chops](recipes/mains/middle-eastern-air-fryer-pork-chops.md) | 380 | 42g | 2 | quick |
+| [Dal Tadka](recipes/mains/dal-tadka.md) | 380 | 18g | 4 | vegetarian |
+| [Rotisserie Herb & Garlic Chicken with Fat-Basted Potatoes](recipes/mains/rotisserie-herb-garlic-chicken.md) | 520 | 48g | 4 | |
+| [Instant Pot Lamb & Pea Soup with Orzo](recipes/mains/instant-pot-lamb-pea-soup-orzo.md) | 520 | 38g | 4 | make-ahead |
+| [Pepperdew, Feta & Pepperoni Flatbread](recipes/mains/pepperdew-feta-pepperoni-flatbread.md) | 590 | 18g | 1 | |
+| [Sirloin Steak with Fried Egg & Durban Masala Chips](recipes/mains/sirloin-steak-fried-egg-durban-masala-chips.md) | 680 | 52g | 2 | weekend |
+| [Bold Pepper Steak Pie with Roasted Garlic Cauliflower Mash](recipes/mains/bold-pepper-steak-pie.md) | 680 | 48g | 4 | weekend |
+| [Korean Gochujang Chicken & Kimchi Rice Paper Parcels](recipes/mains/korean-gochujang-chicken-kimchi-parcels.md) | 770 (6 parcels) | 68g | 1 | make 4 parcels for ~510 |
+| [Chicken Sausage Ciabatta with Pepperdew & Bell Pepper](recipes/mains/chicken-sausage-ciabatta.md) | 990 | 45g | 1 | one sausage for ~740 |
+
+## Sides
+
+| Recipe | kcal/serve | Protein | Serves |
+|---|---|---|---|
+| [Air Fryer Crispy Onions](recipes/sides/air-fryer-crispy-onions.md) | 80 | 1g | 4 |
+| [Roasted Garlic & Cream Cheese Cauliflower Mash](recipes/sides/roasted-garlic-cream-cheese-cauliflower-mash.md) | 120 | 6g | 4 |
+| [Crispy Spiced Chickpeas](recipes/sides/crispy-spiced-chickpeas.md) | 180 | 8g | 2 |
+| [Crispy Herbed Rosti](recipes/sides/crispy-herbed-rosti.md) | 210 | 4g | 4 |
+
+## Breads
+
+| Recipe | kcal/serve | Protein | Serves | Notes |
+|---|---|---|---|---|
+| [Two-Ingredient Yoghurt Flatbreads](recipes/breads/two-ingredient-yoghurt-flatbreads.md) | 150 | 6g | 6 | âš ï¸ pending import |
+| [Garlic & Coriander Yoghurt Flatbreads](recipes/breads/garlic-coriander-yoghurt-flatbreads.md) | 160 | 6g | 6 | âš ï¸ pending import |
+| [Sourdough Discard Yoghurt Flatbreads](recipes/breads/sourdough-discard-yoghurt-flatbreads.md) | 160 | 6g | 6 | uses starter discard |
+
+## Breakfast
+
+| Recipe | kcal/serve | Protein | Serves |
+|---|---|---|---|
+| [Yoghurt Dutch Baby with Honeyed Yoghurt & Berries](recipes/breakfast/yoghurt-dutch-baby.md) | 360 | 15g | 2 |
+
+## Desserts
+
+| Recipe | kcal/serve | Protein | Serves |
+|---|---|---|---|
+| [Peanut Butter Protein Frosty](recipes/desserts/peanut-butter-protein-frosty.md) | 200 | 9g | 2 |
+| [Mango Lassi Froyo (Creami)](recipes/desserts/mango-lassi-froyo.md) | 230 | 10g | 2 |
+| [Gochujang Salted Caramel Froyo (Creami)](recipes/desserts/gochujang-salted-caramel-froyo.md) | 255 | 12g | 2 |
+| [Greek Yoghurt Peanut Butter Froyo (Creami)](recipes/desserts/greek-yoghurt-peanut-butter-froyo.md) | 295 | 20g | 2 |
+
+## Sauces
+
+| Recipe | kcal | Protein | Serves |
+|---|---|---|---|
+| [Korean Soy-Vinegar Dipping Sauce](recipes/sauces/korean-soy-vinegar-dipping-sauce.md) | 50 (batch) | 2g | 2 |
+
+## Conventions
+
+- One markdown file per recipe under `recipes/<category>/`, kebab-case filename.
+- Header block: title, then `**Category:** Â· **Serves:** Â· **Calories:** Â· **Protein:**` and `**Tags:**`.
+- Sections: `## Ingredients`, `## Method` (numbered), `## Notes`.
+- Metric units (g/ml), oven temps in Â°C. Cross-reference other recipes with relative links.
+- Update the tables in this README when adding a recipe.
