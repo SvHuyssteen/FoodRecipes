@@ -5,7 +5,7 @@ A repo where I use AI to try and come up or catalogue recipes for me to use.
 Personal recipe collection — healthy and hearty with treats mixed in. Calories and protein are
 per-serve estimates. Migrated from Google Drive, October 2026.
 
-**Kit:** Kenwood stand mixer (blender / grinder / juicer / food processor attachments), Ninja
+**Kit:** Kenwood stand mixer (blender / spice mill / juicer / food processor attachments), Ninja
 Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdough starter.
 
 ## Mains
@@ -23,6 +23,15 @@ Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdoug
 | [Bold Pepper Steak Pie with Roasted Garlic Cauliflower Mash](recipes/mains/bold-pepper-steak-pie.md) | 680 | 48g | 4 | weekend |
 | [Korean Gochujang Chicken & Kimchi Rice Paper Parcels](recipes/mains/korean-gochujang-chicken-kimchi-parcels.md) | 770 (6 parcels) | 68g | 1 | make 4 parcels for ~510 |
 | [Chicken Sausage Ciabatta with Pepperdew & Bell Pepper](recipes/mains/chicken-sausage-ciabatta.md) | 990 | 45g | 1 | one sausage for ~740 |
+| [Shakshuka](recipes/mains/shakshuka.md) | 350 | 18g | 2 | cheapest main, one pan |
+| [Miso-Glazed Kingklip](recipes/mains/miso-glazed-kingklip.md) | 350 | 35g | 2 | nice-dinner fish, 15 min |
+| [Miso-Glazed Snoek](recipes/mains/miso-glazed-snoek.md) | 400 | 40g | 4 | omega-3s, braai-able |
+| [Hake Katsu](recipes/mains/hake-katsu.md) | 450 | 35g | 2 | weekly fish, freezer-friendly |
+| [Chicken Souvlaki with Tzatziki](recipes/mains/chicken-souvlaki.md) | 480 | 45g | 2 | Friday feast anchor |
+| [Chicken Teriyaki](recipes/mains/chicken-teriyaki.md) | 500 | 45g | 2 | one pan, 20 min |
+| [Oyakodon](recipes/mains/oyakodon.md) | 550 | 35g | 2 | tired-Tuesday comfort |
+| [Greek Lemon Chicken & Potato Traybake](recipes/mains/greek-lemon-chicken-traybake.md) | 550 | 45g | 4 | one tray |
+| [Lamb Kofta with Tzatziki](recipes/mains/lamb-kofta.md) | 650 | 38g | 4 | weekend splurge, fresh-milled spices |
 
 ## Sides
 
@@ -32,6 +41,7 @@ Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdoug
 | [Roasted Garlic & Cream Cheese Cauliflower Mash](recipes/sides/roasted-garlic-cream-cheese-cauliflower-mash.md) | 120 | 6g | 4 |
 | [Crispy Spiced Chickpeas](recipes/sides/crispy-spiced-chickpeas.md) | 180 | 8g | 2 |
 | [Crispy Herbed Rosti](recipes/sides/crispy-herbed-rosti.md) | 210 | 4g | 4 |
+| [Miso Soup](recipes/sides/miso-soup.md) | 50 | 4g | 2 |
 
 ## Breads
 
@@ -78,6 +88,8 @@ Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdoug
 | Recipe | kcal | Protein | Serves |
 |---|---|---|---|
 | [Korean Soy-Vinegar Dipping Sauce](recipes/sauces/korean-soy-vinegar-dipping-sauce.md) | 50 (batch) | 2g | 2 |
+| [All-Purpose Miso Glaze](recipes/sauces/miso-glaze.md) | 150 (batch) | 3g | 2–4 portions |
+| [Tzatziki](recipes/sauces/tzatziki.md) | 60 | 4g | 4 |
 
 ## Conventions
 
