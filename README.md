@@ -1,8 +1,8 @@
-﻿# FoodRecipes
+# FoodRecipes
 
 A repo where I use AI to try and come up or catalogue recipes for me to use.
 
-Personal recipe collection â€” healthy and hearty with treats mixed in. Calories and protein are
+Personal recipe collection — healthy and hearty with treats mixed in. Calories and protein are
 per-serve estimates. Migrated from Google Drive, October 2026.
 
 **Kit:** Kenwood stand mixer (blender / grinder / juicer / food processor attachments), Ninja
@@ -12,7 +12,7 @@ Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdoug
 
 | Recipe | kcal/serve | Protein | Serves | Notes |
 |---|---|---|---|---|
-| [Peri-Peri Pork Loin with Charred Miso Cabbage & Sesame Cauliflower Rice](recipes/mains/peri-peri-pork-loin.md) | 470 | 46g | 4 | âš ï¸ pending import |
+| [Peri-Peri Pork Loin with Charred Miso Cabbage & Sesame Cauliflower Rice](recipes/mains/peri-peri-pork-loin.md) | 470 | 46g | 4 | low-cal favourite |
 | [Middle Eastern Spiced Air Fryer Pork Chops](recipes/mains/middle-eastern-air-fryer-pork-chops.md) | 380 | 42g | 2 | quick |
 | [Dal Tadka](recipes/mains/dal-tadka.md) | 380 | 18g | 4 | vegetarian |
 | [Rotisserie Herb & Garlic Chicken with Fat-Basted Potatoes](recipes/mains/rotisserie-herb-garlic-chicken.md) | 520 | 48g | 4 | |
@@ -36,8 +36,8 @@ Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdoug
 
 | Recipe | kcal/serve | Protein | Serves | Notes |
 |---|---|---|---|---|
-| [Two-Ingredient Yoghurt Flatbreads](recipes/breads/two-ingredient-yoghurt-flatbreads.md) | 150 | 6g | 6 | âš ï¸ pending import |
-| [Garlic & Coriander Yoghurt Flatbreads](recipes/breads/garlic-coriander-yoghurt-flatbreads.md) | 160 | 6g | 6 | âš ï¸ pending import |
+| [Two-Ingredient Yoghurt Flatbreads](recipes/breads/two-ingredient-yoghurt-flatbreads.md) | 150 | 6g | 6 | neutral base |
+| [Garlic & Coriander Yoghurt Flatbreads](recipes/breads/garlic-coriander-yoghurt-flatbreads.md) | 160 | 6g | 6 | curry pairing |
 | [Sourdough Discard Yoghurt Flatbreads](recipes/breads/sourdough-discard-yoghurt-flatbreads.md) | 160 | 6g | 6 | uses starter discard |
 
 ## Breakfast
@@ -64,7 +64,7 @@ Creami, Instant Vortex air fryer oven (rotisserie + drum), Instant Pot, sourdoug
 ## Conventions
 
 - One markdown file per recipe under `recipes/<category>/`, kebab-case filename.
-- Header block: title, then `**Category:** Â· **Serves:** Â· **Calories:** Â· **Protein:**` and `**Tags:**`.
+- Header block: title, then `**Category:** · **Serves:** · **Calories:** · **Protein:**` and `**Tags:**`.
 - Sections: `## Ingredients`, `## Method` (numbered), `## Notes`.
-- Metric units (g/ml), oven temps in Â°C. Cross-reference other recipes with relative links.
+- Metric units (g/ml), oven temps in °C. Cross-reference other recipes with relative links.
 - Update the tables in this README when adding a recipe.
